@@ -1,2 +1,3 @@
 # Document-Scanner
-Scans a document, performing document detection and perspective transform.
+
+Scans a static clicked image, performing document detection and perspective transform.
